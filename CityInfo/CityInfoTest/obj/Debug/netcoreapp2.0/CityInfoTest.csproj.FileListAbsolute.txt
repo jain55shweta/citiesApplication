@@ -1,0 +1,17 @@
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.csprojResolveAssemblyReference.cache
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.csproj.CoreCompileInputs.cache
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.AssemblyInfoInputs.cache
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.AssemblyInfo.cs
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfoTest.deps.json
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfoTest.runtimeconfig.json
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfoTest.runtimeconfig.dev.json
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfoTest.dll
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfoTest.pdb
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfo.dll
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\bin\Debug\netcoreapp2.0\CityInfo.pdb
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.csproj.CopyComplete
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.dll
+C:\Users\Jain_Shw\source\repos\CityInfo\CityInfoTest\obj\Debug\netcoreapp2.0\CityInfoTest.pdb
